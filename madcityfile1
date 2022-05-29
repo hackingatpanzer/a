@@ -1,4 +1,0 @@
- game.Players.LocalPlayer:Kick("c")
-        game:Shutdown()
-while true do 
-end
